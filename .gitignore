@@ -33,13 +33,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-<<<<<<< HEAD
-=======
-
-
-
-
-
 
 
 
@@ -117,4 +110,4 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 
->>>>>>> b6fb368144dcd8903b071d718f18ae2bffe2058a
+
