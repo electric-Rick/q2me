@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # Build phase
 
   Yay! At @UFRRJ some students wanna make some questions to another one and they don't have any option to do it. I know which exists another ways to do this simple app, but the objective it will delivery a good option to all persons make your questions in privacy and publics ways. 
@@ -36,5 +10,3 @@ Things you may want to cover:
 # About
 This application allow users to make questions for another users or post somewhat they're want.
 
-
->>>>>>> b6fb368144dcd8903b071d718f18ae2bffe2058a
