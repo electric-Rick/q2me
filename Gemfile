@@ -6,6 +6,20 @@ ruby "3.0.2"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
+gem "devise" # to configure the login system
+
+gem "cancancan" # to configure what the user can do and cannot do
+
+gem "rolify" # to rolify users, giving to another users badges and advantages
+
+gem "rails_admin" # to admin the posts, users and the publish of them
+
+gem "sidekiq" # to create background jobs 
+
+gem "bootstrap-sass-rails" # to use styled components
+
+gem "jquery-ui-rails" # to give the styled components some behave
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
