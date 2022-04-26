@@ -8,7 +8,6 @@ class CreateUsers < ActiveRecord::Migration[7.0]
       t.string :periodo
       t.string :campus
       t.integer :idade
-      t.primary_key :id
       t.string :status
       t.string :badge
 

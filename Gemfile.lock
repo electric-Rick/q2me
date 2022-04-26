@@ -297,6 +297,7 @@ DEPENDENCIES
   rails_admin
   redis (~> 4.0)
   rolify
+  sassc-rails
   selenium-webdriver
   sidekiq
   sprockets-rails

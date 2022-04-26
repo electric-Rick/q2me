@@ -1,25 +1,25 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  username: MyString
-  password: MyString
-  email: MyString
-  curso: MyString
-  periodo: MyString
-  campus: MyString
+  username: e-rickalmeida
+  password: ab391f0f18y1sd1fjaf19
+  email: e-rickalmeida@ufrrj.br
+  curso: Física
+  periodo: Quinto
+  campus: Seropédica
   idade: 1
-  id: 
-  status: MyString
-  badge: MyString
+  #id: U001
+  status: User
+  badge: creator
 
 two:
-  username: MyString
-  password: MyString
-  email: MyString
-  curso: MyString
-  periodo: MyString
-  campus: MyString
-  idade: 1
-  id: 
-  status: MyString
-  badge: MyString
+  username: e-rickalmeida
+  password: ab391f0f18y1sd1fjaf19
+  email: e-rickalmeida@ufrrj.br
+  curso: Física
+  periodo: Quinto
+  campus: Seropédica
+  idade: 2
+  #id: U002
+  status: User
+  badge: creator_admin
