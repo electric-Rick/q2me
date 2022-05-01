@@ -106,6 +106,7 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
+    diff-lcs (1.5.0)
     digest (3.1.0)
     erubi (1.10.0)
     ffi (1.15.5)
@@ -218,6 +219,19 @@ GEM
       railties (>= 5.0)
     rexml (3.2.5)
     rolify (6.0.0)
+    rspec (3.11.0)
+      rspec-core (~> 3.11.0)
+      rspec-expectations (~> 3.11.0)
+      rspec-mocks (~> 3.11.0)
+    rspec-core (3.11.0)
+      rspec-support (~> 3.11.0)
+    rspec-expectations (3.11.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.11.0)
+    rspec-mocks (3.11.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.11.0)
+    rspec-support (3.11.0)
     rubyzip (2.3.2)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -297,6 +311,7 @@ DEPENDENCIES
   rails_admin
   redis (~> 4.0)
   rolify
+  rspec
   sassc-rails
   selenium-webdriver
   sidekiq
